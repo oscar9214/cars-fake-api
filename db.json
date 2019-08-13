@@ -1,9 +1,9 @@
 {
   "brands": [
-    {"id": 1, "name": "Audi", "logo": ""},
-    {"id": 2, "name": "BMW", "logo": ""},
-    {"id": 3, "name": "Mercedes Benz", "logo": ""},
-    {"id": 4, "name": "Volkswagen", "logo": ""}
+    {"id": 1, "name": "Audi", "logo": "https://raw.githubusercontent.com/oscar9214/cars-fake-api/master/images/brands/Audi.png"},
+    {"id": 2, "name": "BMW", "logo": "https://raw.githubusercontent.com/oscar9214/cars-fake-api/master/images/brands/BMW.png"},
+    {"id": 3, "name": "Mercedes Benz", "logo": "https://raw.githubusercontent.com/oscar9214/cars-fake-api/master/images/brands/MercedesBenz.png"},
+    {"id": 4, "name": "Volkswagen", "logo": "https://raw.githubusercontent.com/oscar9214/cars-fake-api/master/images/brands/Volkswagen.png"}
   ],
   "vehicles": [
     {

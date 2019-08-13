@@ -1,0 +1,162 @@
+{
+  "brands": [
+    {"id": 1, "name": "Audi", "logo": ""},
+    {"id": 2, "name": "BMW", "logo": ""},
+    {"id": 3, "name": "Mercedes Benz", "logo": ""},
+    {"id": 4, "name": "Volkswagen", "logo": ""}
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "brand": 1,
+      "model": "A3 Sportback",
+      "year": 2020,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 2,
+      "brand": 1,
+      "model": "RS3 Sportback",
+      "year": 2020,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 3,
+      "brand": 2,
+      "model": "120i",
+      "year": 2019,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 4,
+      "brand": 2,
+      "model": "M140i",
+      "year": 2019,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 5,
+      "brand": 3,
+      "model": "A200",
+      "year": 2020,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 6,
+      "brand": 3,
+      "model": "A45 AMG",
+      "year": 2020,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 7,
+      "brand": 4,
+      "model": "Golf GTI",
+      "year": 2020,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    },
+    {
+      "id": 8,
+      "brand": 4,
+      "model": "Golf R",
+      "year": 2020,
+      "engine": {
+        "displacement": "",
+        "horsepower": "",
+        "torque": ""
+      },
+      "performance": {
+        "0to100": ""
+      },
+      "fuelConsumption": {
+        "mpg": "",
+        "lper100km": ""
+      },
+      "image": ""
+    }
+  ]
+}

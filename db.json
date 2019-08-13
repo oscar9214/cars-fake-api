@@ -12,73 +12,85 @@
       "model": "A3 Sportback",
       "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 1.5,
+        "turbo": true,
+        "horsepower": 150,
+        "torque": 250
       },
       "performance": {
-        "0to100": ""
+        "0to100": 8.2,
+        "topSpeed": 220
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 34,
+        "lper100km": 6.9
       },
       "image": ""
     },
     {
       "id": 2,
       "brand": 1,
-      "model": "RS3 Sportback",
+      "model": "S3 Sportback",
       "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 2.0,
+        "turbo": true,
+        "horsepower": 395,
+        "torqueNm": 400
       },
       "performance": {
-        "0to100": ""
+        "0to100": 4.7,
+        "topSpeed": 250
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 35,
+        "lper100km": 6.8
       },
       "image": ""
     },
     {
       "id": 3,
       "brand": 2,
-      "model": "120i",
-      "year": 2019,
+      "model": "118i",
+      "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 3,
+        "displacement": 1.5,
+        "turbo": true,
+        "horsepower": 140,
+        "torqueNm": 220
       },
       "performance": {
-        "0to100": ""
+        "0to100": 8.5,
+        "topSpeed": 213
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 41,
+        "lper100km": 5.7
       },
       "image": ""
     },
     {
       "id": 4,
       "brand": 2,
-      "model": "M140i",
-      "year": 2019,
+      "model": "M135i",
+      "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 2.0,
+        "turbo": true,
+        "horsepower": 306,
+        "torqueNm": 450
       },
       "performance": {
-        "0to100": ""
+        "0to100": 4.8,
+        "topSpeed": 250
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 33,
+        "lper100km": 7.1
       },
       "image": ""
     },
@@ -88,54 +100,63 @@
       "model": "A200",
       "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 1.3,
+        "turbo": true,
+        "horsepower": 163,
+        "torqueNm": 250
       },
       "performance": {
-        "0to100": ""
+        "0to100": 8,
+        "topSpeed": 225
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 41,
+        "lper100km": 5.7
       },
       "image": ""
     },
     {
       "id": 6,
       "brand": 3,
-      "model": "A45 AMG",
+      "model": "A35 AMG",
       "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 2.0,
+        "turbo": true,
+        "horsepower": 306,
+        "torqueNm": 400
       },
       "performance": {
-        "0to100": ""
+        "0to100": 4.7,
+        "topSpeed": 250
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 32,
+        "lper100km": 7.4
       },
       "image": ""
     },
     {
       "id": 7,
       "brand": 4,
-      "model": "Golf GTI",
+      "model": "Golf GTI Performance",
       "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 2.0,
+        "turbo": true,
+        "horsepower": 245,
+        "torqueNm": 370
       },
       "performance": {
-        "0to100": ""
+        "0to100": 6.2,
+        "topSpeed": 250
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 38,
+        "lper100km": 6.2
       },
       "image": ""
     },
@@ -145,16 +166,19 @@
       "model": "Golf R",
       "year": 2020,
       "engine": {
-        "displacement": "",
-        "horsepower": "",
-        "torque": ""
+        "cylinders": 4,
+        "displacement": 2.0,
+        "turbo": true,
+        "horsepower": 310,
+        "torqueNm": 400
       },
       "performance": {
-        "0to100": ""
+        "0to100": 4.6,
+        "topSpeed": 250
       },
       "fuelConsumption": {
-        "mpg": "",
-        "lper100km": ""
+        "mpg": 32,
+        "lper100km": 7.2
       },
       "image": ""
     }

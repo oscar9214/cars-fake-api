@@ -59,9 +59,11 @@ var CarsComponent = Vue.component('cars', {
                         <h3 v-if="cars.length === 0">There are no cars</h3>
                         <div v-else>
                             <div class="row">
-                                <div class="col-md-4" v-for="car in cars">
+                                <div class="col-md-4 mb-md-4" v-for="car in cars">
                                     <div class="card">
-                                      <img :src="car.image" class="card-img-top" alt="...">
+                                      <div class="image-container">
+                                        <img :src="car.image" class="card-img-top" alt="...">
+                                      </div>                                      
                                       <div class="card-body">
                                         <h5 class="card-title">{{ car.model }}</h5>
                                         <p class="card-text">{{ car.brand }}</p>

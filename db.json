@@ -37,7 +37,7 @@
         "cylinders": 4,
         "displacement": 2.0,
         "turbo": true,
-        "horsepower": 395,
+        "horsepower": 300,
         "torqueNm": 400
       },
       "performance": {

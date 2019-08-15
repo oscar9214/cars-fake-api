@@ -16,8 +16,8 @@ var BrandsComponent = Vue.component('brands', {
                         <h3 v-if="brands.length === 0">There are no brands</h3>
                         <div v-else>
                             <div class="row">
-                                <div class="col-md-3" v-for="brand in brands">
-                                    {{ brand.name }}
+                                <div class="col-md-3 text-center" v-for="brand in brands">
+                                    
                                     <img :src="brand.logo" class="brand-logo" alt="">
                                 </div>
                             </div>
